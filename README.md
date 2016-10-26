@@ -1,2 +1,3 @@
-# sitetest1
-Repo for mucking around with some form submission stuff
+# Stub / mock up for the DBHub.io website
+
+Nothing useful here yet :)
